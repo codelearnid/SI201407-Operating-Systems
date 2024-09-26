@@ -10,5 +10,5 @@ Soal
 | P4 | 8 | 11 |
 | P5 | 10 | 5 |
 
-a. Gambarkan Gantt Chart untuk algoritma FCFS, SJF Nonpreemptive, SJF Preemptive.
+a. Gambarkan Gantt Chart untuk algoritma FCFS, SJF Nonpreemptive, SJF Preemptive. <br>
 b. Hitung waktu tunggu setiap proses dan rata-rata waktu tunggu.
